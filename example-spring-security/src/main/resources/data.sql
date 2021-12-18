@@ -1,0 +1,2 @@
+insert into members (seq, username, token, auth) values (null, 'user', '$2a$10$WqX7CEClxRApb/Sxa9ThKO9gWx/68vIVuuBKkhQe6n2wZXNKMaypW', 'USER');
+insert into members (seq, username, token, auth) values (null, 'admin', '$2a$10$0Mg/pfZIs.C7HVdWKevmpuAgs.zP5k7O4GQJrHaTi56XIteFfrl4K', 'ADMIN');
